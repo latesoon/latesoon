@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @latesoon
 - 🌱 I’m currently learning Computer Science in Nankai University
-- 📫 How to reach me 2211290@mail.nankai.edu.cn
+- 📫 You can reach me at 2211290@mail.nankai.edu.cn
 
 <!---
 latesoon/latesoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
