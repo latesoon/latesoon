@@ -3,7 +3,6 @@
 - 📫 You can reach me at 2211290@mail.nankai.edu.cn
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=latesoon&show_icons=true)
-![Profile Views](https://komarev.com/ghpvc/?username=latesoon)
 <!---
 latesoon/latesoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
